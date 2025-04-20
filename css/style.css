@@ -6,14 +6,6 @@
     --dark: #252C30;
 }
 
-.back-to-top {
-    position: fixed;
-    display: none;
-    right: 30px;
-    bottom: 30px;
-    z-index: 99;
-}
-
 .fw-medium {
     font-weight: 600;
 }
@@ -74,15 +66,6 @@
     top: -150px;
     transition: .5s;
 }
-
-/*.navbar .navbar-brand {
-    position: absolute;
-    padding: 0;
-    width: 170px;
-    height: 135px;
-    top: 0;
-    left: 0;
-}*/
 
 .navbar .navbar-nav .nav-link {
     margin-right: 35px;
