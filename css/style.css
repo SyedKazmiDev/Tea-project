@@ -107,6 +107,22 @@
     margin-left: 8px;
 }
 
+.page-header {
+    background: linear-gradient(rgba(136, 180, 78, .7), rgba(136, 180, 78, .7)) center center no-repeat;
+    background-size: cover;
+}
+
+.page-header .breadcrumb-item+.breadcrumb-item::before {
+    color: var(--light);
+}
+
+.page-header .breadcrumb-item,
+.page-header .breadcrumb-item a {
+    font-size: 18px;
+    color: var(--light);
+}
+
+
 /*** Header ***/
 .carousel-caption {
     top: 0;
