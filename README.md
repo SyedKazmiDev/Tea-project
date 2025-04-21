@@ -49,7 +49,7 @@ Visit the live demo:  https://syedkazmidev.github.io/Tea-project/
 To get started, follow these steps:
 
 1. Clone this repository in gitbash:
-   git clone https://github.com/SabKaz78614/Local-Tea-Business.git
+   git clone https://github.com/SyedKazmiDev/Tea-project.git
 2. To check, navigate to the project folder in file explorer and Click on index.html to open in browser.
 
 
