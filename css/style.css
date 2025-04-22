@@ -246,6 +246,12 @@ a.d-block.product-item.rounded img {
 .store-item:hover .store-overlay {
     opacity: 1;
 }
+.backery-wrap img {
+    width: 100%;
+    height: 400px;
+    object-fit: cover;
+}
+
 
 @media (max-width: 991.98px) {
     /*.navbar .navbar-brand {
